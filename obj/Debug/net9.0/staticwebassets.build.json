@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PG/KVeG35/ZWgQ7Ug07pW3BUcceRLv4J1OM0Dpw+FFM=",
+  "Source": "MyDotNetCoreApp",
+  "BasePath": "_content/MyDotNetCoreApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
